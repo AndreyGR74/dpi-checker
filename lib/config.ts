@@ -327,6 +327,13 @@ export const SERVICES: Service[] = [
         minSize: 1000,
       },
     ],
+   id: 'nnmclub.to',
+    name: 'nnmclub.to',
+    logo: '/nnmclub.png',
+    endpoints: [
+      {
+        url: 'https://nnmstatic.win/forum/images/logos/1aprila.png',
+        minSize: 1000, 
   },
 ];
 
