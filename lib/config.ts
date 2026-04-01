@@ -329,5 +329,15 @@ export const SERVICES: Service[] = [
     ],
   },
 ];
-
+id: 'nnmclub',
+    name: 'nnmclub.to',
+    logo: '/nnmclub.png',
+    endpoints: [
+      {
+        url: 'https://nnmstatic.win/manifest/apple-touch-icon.png',
+        minSize: 1000,
+         },
+    ],
+  },
+];
 export const TIMEOUT_MS = 10000;
